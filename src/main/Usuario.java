@@ -15,6 +15,7 @@ public class Usuario {
 		this.nome = nome;
 		this.email = email;
 		this.cidade = cidade;
+		
 	}
 	
 	public void participarEvento(Evento e) {
